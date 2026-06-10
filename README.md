@@ -16,7 +16,7 @@ Skills live in `~/.claude/skills/<name>/SKILL.md`. To install:
 
 ```bash
 # Clone this repo
-git clone https://github.com/abhisheksahu/agent-magic.git
+git clone https://github.com/abhiiitr/agent-magic.git
 cd agent-magic
 
 # Copy the skill you want
